@@ -30,3 +30,4 @@ Git • GitHub • VS Code
 - Enhanced SSE debugging and image paste support for [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
 - Implemented interactive SSE message viewer with i18n support
 - Added Ctrl+V image paste functionality in Playground
+
